@@ -18,7 +18,7 @@ There are two types of features this MOD has: Core Features and Temporary Featur
 
 Below are the core features of the MOD and what they look like in game.
 
-### Adventure HUD UI
+### Adventure UI
 
 - Current bonus warps
 - Current adventure time
@@ -48,7 +48,7 @@ Below are the core features of the MOD and what they look like in game.
 
 > Note: Temporary features will typically be added if I am testing something out, but also feel like sharing them with the world.
 
-### Adventure HUD UI
+### Adventure UI
 
 - Number of heals
 - Number of ambushes
