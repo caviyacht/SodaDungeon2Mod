@@ -24,9 +24,9 @@ Below are the core features of the MOD and what they look like in game.
 - Current adventure time
 - Gold per hour (GPH)
 - Stein relics per hour (RPH)
-- Only appears when a relic has been earned
+  - Only appears when a relic has been earned
 - Stein gold find relics per hour (GFR)
-- Only appears when a gold find relic has been earned
+  - Only appears when a gold find relic has been earned
 - Character HP and MP show as a percentage
 
 ### Relic UI
