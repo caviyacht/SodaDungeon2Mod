@@ -28,12 +28,12 @@ There are two types of features this MOD has: Core Features and Temporary Featur
 - Relic UI
   - +10k level-up button
   - +100k level-up button
-  - Max level-up button **COMING SOON**
+  - Max level-up button **!!COMING SOON!!**
 - Scripts UI
-  - Half height script triggers **COMING SOON**
-  - Scripts sorted by script name **COMING SOON**
+  - Half height script triggers **!!COMING SOON!!**
+  - Scripts sorted by script name **!!COMING SOON!!**
 - Book UI
-  - Scripts sorted by script name **COMING SOON**
+  - Scripts sorted by script name **!!COMING SOON!!**
 
 ## Temporary Features
 
