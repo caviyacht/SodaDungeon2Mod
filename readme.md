@@ -56,3 +56,19 @@ Uninstalling the MOD is super simple.
 4) Click `Local Files`
 5) Click `Verify integrity of game files...`.
 6) Follow the prompts.
+
+# FAQ
+
+You've got questions? Well I have answers.
+
+### Q. I want th-
+
+I don't care what you want. The answer is no.
+
+### Q. I want features from MOD X in MOD Y, can I ha-
+
+I said no.
+
+# Remarks
+
+I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using this MOD, or any MOD.
