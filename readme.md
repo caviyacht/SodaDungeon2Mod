@@ -16,33 +16,43 @@ There are two types of features this MOD has: Core Features and Temporary Featur
 
 ## Core Features
 
-- Adventure HUD UI
-  - Current bonus warps
-  - Current adventure time
-  - Gold per hour (GPH)
-  - Stein relics per hour (RPH)
-    - Only appears when a relic has been earned
-  - Stein gold find relics per hour (GFR)
-    - Only appears when a gold find relic has been earned
-  - Character HP and MP show as a percentage
-- Relic UI
-  - +10k level-up button
-  - +100k level-up button
-  - Max level-up button **!!COMING SOON!!**
-- Scripts UI
-  - Half height script triggers **!!COMING SOON!!**
-  - Scripts sorted by script name **!!COMING SOON!!**
-- Book UI
-  - Scripts sorted by script name **!!COMING SOON!!**
+Below are the core features of the MOD and what they look like in game.
+
+### Adventure HUD UI
+
+- Current bonus warps
+- Current adventure time
+- Gold per hour (GPH)
+- Stein relics per hour (RPH)
+- Only appears when a relic has been earned
+- Stein gold find relics per hour (GFR)
+- Only appears when a gold find relic has been earned
+- Character HP and MP show as a percentage
+
+### Relic UI
+
+- +10k level-up button
+- +100k level-up button
+- Max level-up button **!!COMING SOON!!**
+
+### Scripts UI
+
+- Half height script triggers **!!COMING SOON!!**
+- Scripts sorted by script name **!!COMING SOON!!**
+
+### Book UI
+
+- Scripts sorted by script name **!!COMING SOON!!**
 
 ## Temporary Features
 
-- Adventure HUD UI
-  - Number of heals
-  - Number of ambushes
-  - Number of portals
-
 > Note: Temporary features will typically be added if I am testing something out, but also feel like sharing them with the world.
+
+### Adventure HUD UI
+
+- Number of heals
+- Number of ambushes
+- Number of portals
 
 # Instructions
 
@@ -83,3 +93,7 @@ I said no.
 # Remarks
 
 I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using this MOD, or any MOD.
+
+# Credits
+
+A big thanks to Shawn for creating this game.
