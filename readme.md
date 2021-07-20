@@ -2,6 +2,12 @@
 
 Welcome to the Caviyacht Soda Dungeon 2 MOD!
 
+# Versions
+
+This MOD only works with **Soda Dungeon 2 v1.1.1b103**.
+
+> Note: If you need a previous version for any reason, check the release section to see if there is one that meets your needs.
+
 # Features
 
 This MOD has many features that will not only improve your quality of life, but will also show you information you did not even know you wanted to know.
@@ -32,6 +38,8 @@ There are two types of features this MOD has: Core Features and Temporary Featur
 ## Temporary Features
 
 - N/A
+
+> Note: Temporary features will typically be added if I am testing something out, but also feel like sharing them with the world.
 
 # Instructions
 
