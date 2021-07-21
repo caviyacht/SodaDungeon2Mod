@@ -23,6 +23,7 @@ Below are the core features of the MOD.
 - Current bonus warps
 - Current adventure time
 - Gold per hour (GPH)
+- Essence per hour (EPH) **!!COMING SOON!!**
 - Stein relics per hour (RPH)
   - Only appears when a relic has been earned
 - Stein gold find relics per hour (GFR)
@@ -50,9 +51,9 @@ Below are the core features of the MOD.
 
 ### Adventure UI
 
-- Number of heals
-- Number of ambushes
-- Number of portals
+- Number of heals **(DEPRECATED)**
+- Number of ambushes **(DEPRECATED)**
+- Number of portals **(DEPRECATED)**
 
 # Screenshots
 
