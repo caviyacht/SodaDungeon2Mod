@@ -4,7 +4,7 @@ Welcome to the Caviyacht Soda Dungeon 2 MOD!
 
 # Versions
 
-This MOD only works with **Soda Dungeon 2 v1.1.1b103**.
+This MOD only works with **Soda Dungeon 2 v1.1.1 (build 104)**.
 
 > Note: If you need a previous version for any reason, check the release section to see if there is one that meets your needs.
 
@@ -16,7 +16,7 @@ There are two types of features this MOD has: Core Features and Temporary Featur
 
 ## Core Features
 
-Below are the core features of the MOD and what they look like in game.
+Below are the core features of the MOD.
 
 ### Adventure UI
 
@@ -53,6 +53,20 @@ Below are the core features of the MOD and what they look like in game.
 - Number of heals
 - Number of ambushes
 - Number of portals
+
+# Screenshots
+
+## Adventure UI
+
+![HUD UI](images/hud-ui.png)
+
+![Stat UI](images/stat-ui.png)
+
+## Relic UI
+
+![Relic UI +10k](images/relic-ui-10k.png)
+
+![Relic UI +100k](images/relic-ui-100k.png)
 
 # Instructions
 
