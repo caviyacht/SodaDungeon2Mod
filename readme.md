@@ -14,12 +14,14 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 
 - Current bonus warps
 - Current adventure time
+- Essence per hour (EPH)
+  - Shows by default
+  - Clicking the text switches to GPH
 - Gold per hour (GPH)
-- Essence per hour (EPH) **[COMING SOON]**
 - Stein relics per hour (RPH)
-  - Only appears when a relic has been earned
+  - Shows when a free relic has been earned
 - Stein gold find relics per hour (GFR)
-  - Only appears when a gold find relic has been earned
+  - Shows when a free gold find relic has been earned
 - Character HP and MP show as a percentage
 
 ### Relic UI
@@ -50,7 +52,9 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 
 ## Adventure UI
 
-![HUD UI](images/hud-ui.png)
+![HUD UI GPH](images/hud-ui-eph.png)
+
+![HUD UI EPH](images/hud-ui-gph.png)
 
 ![Stat UI](images/stat-ui.png)
 
