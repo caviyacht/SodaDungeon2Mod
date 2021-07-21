@@ -1,29 +1,21 @@
-# Soda Dungeon 2 MOD
+# Caviar
 
-Welcome to the Caviyacht Soda Dungeon 2 MOD!
-
-# Versions
-
-This MOD only works with **Soda Dungeon 2 v1.1.1 (build 104)**.
-
-> Note: If you need a previous version for any reason, check the release section to see if there is one that meets your needs.
+Caviar is a Soda Dungeon 2 MOD that adds only the finest things in life.
 
 # Features
 
-This MOD has many features that will not only improve your quality of life, but will also show you information you did not even know you wanted to know.
+Caviar has many features that will not only improve your quality of life, but will also show you information you did not even know you wanted to know.
 
-There are two types of features this MOD has: Core Features and Temporary Features. Core Features will persist between MOD updates, while Temporary Features may disappear if I no longer find them useful.
+There are two types of features in Caviar: Core Features and Experimental Features. Core Features will persist between updates while Experimental Features may be deprecated.
 
 ## Core Features
-
-Below are the core features of the MOD.
 
 ### Adventure UI
 
 - Current bonus warps
 - Current adventure time
 - Gold per hour (GPH)
-- Essence per hour (EPH) **!!COMING SOON!!**
+- Essence per hour (EPH) **[COMING SOON]**
 - Stein relics per hour (RPH)
   - Only appears when a relic has been earned
 - Stein gold find relics per hour (GFR)
@@ -34,26 +26,25 @@ Below are the core features of the MOD.
 
 - +10k level-up button
 - +100k level-up button
-- Max level-up button **!!COMING SOON!!**
+- Max level-up button
+  - Note: This can take a while to process (ex, 1.5M levels took around 3s)
 
 ### Scripts UI
 
-- Half height script triggers **!!COMING SOON!!**
-- Scripts sorted by script name **!!COMING SOON!!**
+- Half-height script triggers **[COMING SOON]**
+- Scripts sorted by script name **[COMING SOON]**
 
 ### Book UI
 
-- Scripts sorted by script name **!!COMING SOON!!**
+- Scripts sorted by script name **[COMING SOON]**
 
-## Temporary Features
-
-> Note: Temporary features will typically be added if I am testing something out, but also feel like sharing them with the world.
+## Experimental Features
 
 ### Adventure UI
 
-- Number of heals **(DEPRECATED)**
-- Number of ambushes **(DEPRECATED)**
-- Number of portals **(DEPRECATED)**
+- Number of heals **[DEPRECATED]**
+- Number of ambushes **[DEPRECATED]**
+- Number of portals **[DEPRECATED]**
 
 # Screenshots
 
@@ -69,22 +60,24 @@ Below are the core features of the MOD.
 
 ![Relic UI +100k](images/relic-ui-100k.png)
 
+![Relic UI MAX](images/relic-ui-max.png)
+
 # Instructions
 
-Installing and uninstalling the MOD is super easy. Just follow the instructions below and you'll be fine...
+Installing and uninstalling Caviar is super easy. Just follow the instructions below and you'll be fine...
 
 ## Installing
 
-Installing the MOD is as easy as counting to 3.
+Installing Caviar is as easy as counting to 3.
 
-1) Download the MOD that you want (preferablly the latest release).
+1) Download the version of Caviar that you want (preferablly the latest release).
 2) Find your Soda Dungeon 2 installation folder.
    - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`.
 3) Copy the downloaded dll into the directory from step 2.
 
 ## Uninstalling
 
-Uninstalling the MOD is super simple.
+Uninstalling Caviar is super simple.
 
 1) Open Steam.
 2) Find Soda Dungeon 2 in your massive game list.
@@ -107,7 +100,7 @@ I said no.
 
 # Remarks
 
-I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using this MOD, or any MOD.
+I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using the Caviar MOD, or any MOD.
 
 # Credits
 
