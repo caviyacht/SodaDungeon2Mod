@@ -23,6 +23,8 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 - Stein gold find relics per hour (GFR)
   - Shows when a free gold find relic has been earned
 - Character HP and MP show as a percentage
+- Ambushes per hour (APH) **[COMING SOON]**
+- Heals per hour (HPH) **[COMING SOON]**
 
 ### Relic UI
 
@@ -33,12 +35,12 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 
 ### Scripts UI
 
-- Half-height script triggers **[COMING SOON]**
-- Scripts sorted by script name **[COMING SOON]**
+- Half-height script triggers
+- Scripts sorted by script name
 
 ### Book UI
 
-- Scripts sorted by script name **[COMING SOON]**
+- Scripts sorted by script name
 
 ## Experimental Features
 
