@@ -68,6 +68,12 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 
 ![Relic UI MAX](images/relic-ui-max.png)
 
+## Soda Scripts UI
+
+![Sorted Scripts](images/soda-scripts-sorted.png)
+
+![Sorted Script](images/soda-script-half-height.png)
+
 # Instructions
 
 Installing and uninstalling Caviar is super easy. Just follow the instructions below and you'll be fine...
