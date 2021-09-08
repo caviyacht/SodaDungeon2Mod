@@ -6,14 +6,15 @@ Caviar is a Soda Dungeon 2 MOD that adds only the finest things in life.
 
 Caviar has many features that will not only improve your quality of life, but will also show you information you did not even know you wanted to know.
 
-There are two types of features in Caviar: Core Features and Experimental Features. Core Features will persist between updates while Experimental Features may be deprecated.
-
 ## Core Features
 
 ### Adventure UI
 
 - Current bonus warps
 - Current adventure time
+- FPH/FPH-warps
+  - Displays both FPH at the same time
+  - Displays only a single FPH if warps have not been used
 - Essence per hour (EPH)
   - Shows by default
   - Clicking the text switches to GPH
@@ -22,9 +23,6 @@ There are two types of features in Caviar: Core Features and Experimental Featur
   - Shows when a free relic has been earned
 - Stein gold find relics per hour (GFR)
   - Shows when a free gold find relic has been earned
-- Character HP and MP show as a percentage
-- Ambushes per hour (APH) **[COMING SOON]**
-- Heals per hour (HPH) **[COMING SOON]**
 
 ### Relic UI
 
@@ -42,13 +40,14 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 
 - Scripts sorted by script name
 
-## Experimental Features
+## Deprecated Features
+
+The following features have been removed due to either being unnecessary, or were not entirely thought out.
 
 ### Adventure UI
 
-- Number of heals **[DEPRECATED]**
-- Number of ambushes **[DEPRECATED]**
-- Number of portals **[DEPRECATED]**
+- Character HP and MP show as a percentage
+  - Note: This was removed because it was not fully thought out and it may make a return in the future.
 
 # Screenshots
 
@@ -57,8 +56,6 @@ There are two types of features in Caviar: Core Features and Experimental Featur
 ![HUD UI GPH](images/hud-ui-eph.png)
 
 ![HUD UI EPH](images/hud-ui-gph.png)
-
-![Stat UI](images/stat-ui.png)
 
 ## Relic UI
 
@@ -83,6 +80,7 @@ Installing and uninstalling Caviar is super easy. Just follow the instructions b
 Installing Caviar is as easy as counting to 3.
 
 1) Download the version of Caviar that you want (preferablly the latest release).
+   - Download the `Assembly-CSharp.dll` file from the releases section.
 2) Find your Soda Dungeon 2 installation folder.
    - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`.
 3) Copy the downloaded dll into the directory from step 2.
@@ -97,6 +95,12 @@ Uninstalling Caviar is super simple.
 4) Click `Local Files`
 5) Click `Verify integrity of game files...`.
 6) Follow the prompts.
+
+# Known Issues
+
+## Boss Rush
+
+The EPH/GPH display shows when it shouldn't.
 
 # FAQ
 
