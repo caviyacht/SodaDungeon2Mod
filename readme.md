@@ -15,10 +15,12 @@ Caviar has many features that will not only improve your quality of life, but wi
 - FPH/FPH-warps
   - Displays both FPH at the same time
   - Displays only a single FPH if warps have not been used
-- Essence per hour (EPH)
-  - Shows by default
-  - Clicking the text switches to GPH
 - Gold per hour (GPH)
+  - Clicking GPH shows EPH
+- Essence per hour (EPH)
+  - Clicking EPH shows GPH
+- Credits per hour (CPH) **[beta-only]**
+  - Shows only during Boss Rush
 - Stein relics per hour (RPH)
   - Shows when a free relic has been earned
 - Stein gold find relics per hour (GFR)
@@ -56,6 +58,8 @@ The following features have been removed due to either being unnecessary, or wer
 ![HUD UI GPH](images/hud-ui-eph.png)
 
 ![HUD UI EPH](images/hud-ui-gph.png)
+
+![HUD UI CPH](images/hud-ui-cph.png)
 
 ## Relic UI
 
