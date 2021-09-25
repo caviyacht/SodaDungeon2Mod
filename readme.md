@@ -84,7 +84,7 @@ Installing and uninstalling Caviar is super easy. Just follow the instructions b
 Installing Caviar is as easy as counting to 3.
 
 1) Download the version of Caviar that you want (preferablly the latest release).
-   - Note: Caviar is versioned the same as the game's version. To find the correct version, I'm the title screen on the game click the version number at the bottom to get the build number. This number is the version of Caviar to download.
+   - Note: Caviar is versioned the same as the game's version. To find the correct version, on the game title screen click the version number at the bottom to get the build number. This number is the version of Caviar to download.
    - Download the `Assembly-CSharp.dll` file from the releases section.
 2) Find your Soda Dungeon 2 installation folder.
    - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`.
