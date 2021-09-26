@@ -1,10 +1,14 @@
-# Caviar
+# Caviar: A Soda Dungeon 2 MOD
 
-Caviar is a Soda Dungeon 2 MOD that adds only the finest things in life.
+Welcome to Caviar, a Soda Dungeon 2 MOD that contains only the finest things in life.
 
 # Features
 
-Caviar has many features that will not only improve your quality of life, but will also show you information you did not even know you wanted to know.
+Caviar has many features that will improve your quality of life while playing Soda Dungeon 2. 
+
+Do you like gold? Well how about a gold per hour heads-up display! Do you like using Stein? We've got you covered. Tired of clicking over and over leveling up that gold relic? Well, now you can bring it to the **MAX** in a single click! Don't forget about your scripts, now you can see all of those glorious triggers (up to 7) together in a single screen! 
+
+And don't forget, there's more where that came from. Go ahead... check it out yourself, if you dare.
 
 ## Core Features
 
@@ -19,8 +23,6 @@ Caviar has many features that will not only improve your quality of life, but wi
   - Clicking GPH shows EPH
 - Essence per hour (EPH)
   - Clicking EPH shows GPH
-- Credits per hour (CPH) **[beta-only]**
-  - Shows only during Boss Rush
 - Stein relics per hour (RPH)
   - Shows when a free relic has been earned
 - Stein gold find relics per hour (GFR)
@@ -42,6 +44,19 @@ Caviar has many features that will not only improve your quality of life, but wi
 
 - Scripts sorted by script name
 
+## Beta Features
+
+The following features are only in the beta version of the game and may end up in the final version.
+
+### Adventure UI
+
+- Credits per hour (CPH)
+  - Shows only during Boss Rush
+
+### Relic UI
+
+- +1M level-up button
+
 ## Deprecated Features
 
 The following features have been removed due to either being unnecessary, or were not entirely thought out.
@@ -49,7 +64,6 @@ The following features have been removed due to either being unnecessary, or wer
 ### Adventure UI
 
 - Character HP and MP show as a percentage
-  - Note: This was removed because it was not fully thought out and it may make a return in the future.
 
 # Screenshots
 
@@ -83,23 +97,24 @@ Installing and uninstalling Caviar is super easy. Just follow the instructions b
 
 Installing Caviar is as easy as counting to 3.
 
-1) Download the version of Caviar that you want (preferablly the latest release).
-   - Note: Caviar is versioned the same as the game's version. To find the correct version, on the game title screen click the version number at the bottom to get the build number. This number is the version of Caviar to download.
-   - Download the `Assembly-CSharp.dll` file from the releases section.
-2) Find your Soda Dungeon 2 installation folder.
-   - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`.
-3) Copy the downloaded dll into the directory from step 2.
+1) Download the version of Caviar that you want (preferablly the latest release)
+   - Download the `Assembly-CSharp.dll` file from the releases section
+2) Find your Soda Dungeon 2 installation folder
+   - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
+3) Copy the downloaded dll into the directory from step 2
+
+> Note: Caviar is versioned the same as the game's version. To find the correct version, on the game title screen click the version number at the bottom to get the build number. This number is the version of Caviar to download.
 
 ## Uninstalling
 
 Uninstalling Caviar is super simple.
 
-1) Open Steam.
-2) Find Soda Dungeon 2 in your massive game list.
-3) Right-click Soda Dungeon 2 and click `Properties`.
+1) Open Steam
+2) Find Soda Dungeon 2 in your massive game list
+3) Right-click Soda Dungeon 2 and click `Properties`
 4) Click `Local Files`
-5) Click `Verify integrity of game files...`.
-6) Follow the prompts.
+5) Click `Verify integrity of game files...`
+6) Follow the prompts
 
 # Known Issues
 
@@ -118,6 +133,10 @@ I don't care what you want. The answer is no.
 ### Q. I want features from MOD X in MOD Y, can I ha-
 
 I said no.
+
+### Q. Why 'Caviar'?
+
+Caviar is considered one of the finer things in life. It's also what the 'cavi' in 'caviyacht' stands for, so... yeah.
 
 # Remarks
 
