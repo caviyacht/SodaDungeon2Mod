@@ -6,7 +6,12 @@ Welcome to Caviar, a Soda Dungeon 2 MOD that contains only the finest things in 
 
 Caviar has many features that will improve your quality of life while playing Soda Dungeon 2. 
 
-Do you like gold? Well how about a gold per hour heads-up display! Do you like using Stein? We've got you covered. Tired of clicking over and over leveling up that gold relic? Well, now you can bring it to the **MAX** in a single click! Don't forget about your scripts, now you can see all of those glorious triggers (up to 7) together in a single screen! 
+Just ask yourself:
+
+- Do you like gold? Well how about a gold per hour heads-up display! 
+- Do you like using Stein and question if it is working? We've got you covered. 
+- Tired of clicking over and over leveling up that gold relic? Well, now you can bring it to the **MAX** with a single click of the mouse! 
+- Are you tired of scrolling to see your script triggers? Guess what, now you can see all of those glorious triggers (up to 7) together in a single screen! 
 
 And don't forget, there's more where that came from. Go ahead... check it out yourself, if you dare.
 
