@@ -37,8 +37,7 @@ And don't forget, there's more where that came from. Go ahead... check it out yo
 
 - +10k level-up button
 - +100k level-up button
-- Max level-up button
-  - Note: This can take a while to process (ex, 1.5M levels took around 3s)
+- MAX level-up button
 
 ### Scripts UI
 
@@ -55,12 +54,19 @@ The following features are only in the beta version of the game and may end up i
 
 ### Adventure UI
 
+- RPH has been moved to the 'Alt Stats'
 - Credits per hour (CPH)
-  - Shows only during Boss Rush
+  - Shows in Boss Rush
+  - Shows in the Alt Stats in dungeon
+- EPH has been removed because essence is useless
 
 ### Relic UI
 
 - +1M level-up button
+
+### Battle Credits UI
+
+- Battle Credit remembrance (current session only)
 
 ## Deprecated Features
 
@@ -102,13 +108,15 @@ Installing and uninstalling Caviar is super easy. Just follow the instructions b
 
 Installing Caviar is as easy as counting to 3.
 
+> Note: Caviar is versioned the same as the game's version. To find the correct version, on the game title screen click the version number at the bottom to get the build number. This number is the version of Caviar to download.
+
+> Note: If you do not see a version that matches your current game version, then that means I am either not supporting that version, or I have not gotten around to updating Caviar.
+
 1) Download the version of Caviar that you want (preferablly the latest release)
    - Download the `Assembly-CSharp.dll` file from the releases section
 2) Find your Soda Dungeon 2 installation folder
    - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
 3) Copy the downloaded dll into the directory from step 2
-
-> Note: Caviar is versioned the same as the game's version. To find the correct version, on the game title screen click the version number at the bottom to get the build number. This number is the version of Caviar to download.
 
 ## Uninstalling
 
@@ -123,9 +131,10 @@ Uninstalling Caviar is super simple.
 
 # Known Issues
 
-## Boss Rush
+## Adventure UI
 
-The EPH/GPH display shows when it shouldn't.
+- The EPH/GPH display is shown when it shouldn't (v1.1.1; fixed in 1.2.0)
+- The CPH display is shown when you have 0 credits earned (v1.2.0)
 
 # FAQ
 
