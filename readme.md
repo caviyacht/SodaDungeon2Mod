@@ -52,6 +52,12 @@ And don't forget, there's more where that came from. Go ahead... check it out yo
 
 The following features are only in the beta version of the game and may end up in the final version.
 
+### Adventure Results
+
+- Floors completed now shows the full number
+- Enemies killed now shows for each type
+  - {normal}/{mini}/{boss}
+
 ### Adventure UI
 
 - RPH has been moved to the 'Alt Stats'
