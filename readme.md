@@ -1,6 +1,10 @@
 # Caviar: A Soda Dungeon 2 MOD
 
-Welcome to Caviar, a Soda Dungeon 2 MOD that contains only the finest things in life.
+Welcome to Caviar, a Soda Dungeon 2 MOD that contains only the finer things in life.
+
+> **Note:** Caviar was built by me for me, but you demanded it, so here it is.
+> 
+> **P.S.:** See the remarks section regarding support.
 
 # Features
 
@@ -163,6 +167,8 @@ Caviar is considered one of the finer things in life. It's also what the 'cavi' 
 # Remarks
 
 I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using the Caviar MOD, or any MOD.
+
+> **Note:** If the mod does not work for some reason, it's you; not me.
 
 # Credits
 
