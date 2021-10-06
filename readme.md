@@ -69,6 +69,8 @@ The following features are only in the beta version of the game and may end up i
   - Shows in Boss Rush
   - Shows in the Alt Stats in dungeon
 - EPH has been removed because essence is useless
+- Character HP/MP stats show abbreviated
+- Character HP/MP stats on the right-side have been moved slightly left
 
 ### Relic UI
 
