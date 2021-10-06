@@ -74,17 +74,25 @@ The following features are only in the beta version of the game and may end up i
 
 - +1M level-up button
 
-### Battle Credits UI
-
-- Battle Credit remembrance (current session only)
-
-## Deprecated Features
+# Deprecated Features
 
 The following features have been removed due to either being unnecessary, or were not entirely thought out.
+
+## Core Features
 
 ### Adventure UI
 
 - Character HP and MP show as a percentage
+
+## Beta Features
+
+### Battle Credits UI
+
+- Battle Credit remembrance (current session only) **[ADDED TO THE BASE GAME]**
+
+### Scripts UI
+
+- Half-height script triggers **[ADDED TO THE BASE GAME]**
 
 # Screenshots
 
