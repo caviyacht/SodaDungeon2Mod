@@ -71,6 +71,7 @@ The following features are only in the beta version of the game and may end up i
 - EPH has been removed because essence is useless
 - Character HP/MP stats show abbreviated
 - Character HP/MP stats on the right-side have been moved slightly left
+- Castle Equivalent Floor (CEF) and Primal Lands Equivalent Floor (PEF)
 
 ### Relic UI
 
