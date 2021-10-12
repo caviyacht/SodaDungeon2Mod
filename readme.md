@@ -3,8 +3,8 @@
 Welcome to Caviar, a Soda Dungeon 2 MOD that contains only the finer things in life.
 
 > **Note:** Caviar was built by me for me, but you demanded it, so here it is.
-> 
-> **P.S.:** See the remarks section regarding support.
+
+> **Note:** See the [remarks](#remarks) section regarding support.
 
 # Features
 
@@ -14,7 +14,7 @@ Just ask yourself:
 
 - Do you like gold? Well how about a gold per hour heads-up display! 
 - Do you like using Stein and question if it is working? We've got you covered. 
-- Tired of clicking over and over leveling up that gold relic? Well, now you can bring it to the **MAX** with a single click of the mouse! 
+- Tired of clicking over, and over, and over, leveling up that gold relic? Well, now you can bring it to the **MAX** with a single click of the mouse! 
 - Are you tired of scrolling to see your script triggers? Guess what, now you can see all of those glorious triggers (up to 7) together in a single screen! 
 
 And don't forget, there's more where that came from. Go ahead... check it out yourself, if you dare.
@@ -23,19 +23,15 @@ And don't forget, there's more where that came from. Go ahead... check it out yo
 
 ### Adventure UI
 
-- Current bonus warps
-- Current adventure time
+- Sword of Space and Time bonus warps
+- Adventure time
 - FPH/FPH-warps
   - Displays both FPH at the same time
   - Displays only a single FPH if warps have not been used
 - Gold per hour (GPH)
-  - Clicking GPH shows EPH
 - Essence per hour (EPH)
-  - Clicking EPH shows GPH
 - Stein relics per hour (RPH)
-  - Shows when a free relic has been earned
 - Stein gold find relics per hour (GFR)
-  - Shows when a free gold find relic has been earned
 
 ### Relic UI
 
@@ -59,15 +55,16 @@ The following features are only in the beta version of the game and may end up i
 ### Adventure Results
 
 - Floors completed now shows the full number
-- Enemies killed now shows for each type
+- Enemies killed now shows for each type of enemy
   - {normal}/{mini}/{boss}
 
 ### Adventure UI
 
+- Clicking the GPH now toggles the 'Alt Stats'
 - RPH has been moved to the 'Alt Stats'
 - Credits per hour (CPH)
   - Shows in Boss Rush
-  - Shows in the Alt Stats in dungeon
+  - Shows in the 'Alt Stats' in dungeon
 - EPH has been removed because essence is useless
 - Character HP/MP stats show abbreviated
 - Character HP/MP stats on the right-side have been moved slightly left
@@ -79,7 +76,7 @@ The following features are only in the beta version of the game and may end up i
 
 # Deprecated Features
 
-The following features have been removed due to either being unnecessary, or were not entirely thought out.
+The following features have been removed, either because the base game has the feature, or the feature was not well thought out.
 
 ## Core Features
 
@@ -91,11 +88,11 @@ The following features have been removed due to either being unnecessary, or wer
 
 ### Battle Credits UI
 
-- Battle Credit remembrance (current session only) **[ADDED TO THE BASE GAME]**
+- Battle Credit remembrance (current session only) **[ADDED TO BASE GAME]**
 
 ### Scripts UI
 
-- Half-height script triggers **[ADDED TO THE BASE GAME]**
+- Half-height script triggers **[ADDED TO BASE GAME]**
 
 # Screenshots
 
@@ -135,11 +132,12 @@ Installing Caviar is as easy as counting to 3.
 
 > **Note:** The latest release will only be the live version of the game, beta releases can be found in the 'More Releases' section.
 
-1) Download the version of Caviar that you need (check version number of game; see note above)
+1) Find the version of Caviar that you need (check version number of game; see note above)
    - Download the `Assembly-CSharp.dll` file from the releases section
+     > **Note:** Make sure the downloaded file name is exactly `Assembly-CSharp.dll`
 2) Find your Soda Dungeon 2 installation folder
    - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
-3) Copy the downloaded dll into the directory from step 2
+3) Copy the downloaded dll (`Assembly-CSharp.dll`) into the directory from step 2 overwriting the existing file
 
 ## Uninstalling
 
@@ -175,11 +173,17 @@ I said no.
 
 Caviar is considered one of the finer things in life. It's also what the 'cavi' in 'caviyacht' stands for, so... yeah.
 
+### Q. The game isn't loading anymore, what do I do?
+
+More than likely this is caused by the downloaded dll having the incorrect name. Make sure that when you download the dll, it is named `Assembly-CSharp.dll`.
+
+> **Note:** If you have downloaded the mod before, there is a chance that it will end up named `Assembly-CSharp (1).dll` upon downloading it again, if the previous file was still there.
+
 # Remarks
 
 I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using the Caviar MOD, or any MOD.
 
-> **Note:** If the mod does not work for some reason, it's you; not me.
+> **Note:** If the mod does not work for some reason, it's you; not me (check the FAQ for potential support).
 
 # Credits
 
