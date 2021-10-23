@@ -52,6 +52,10 @@ And don't forget, there's more where that came from. Go ahead... check it out yo
 
 The following features are only in the beta version of the game and may end up in the final version.
 
+### Title Screen
+
+- Click to skip the beta warning.
+
 ### Adventure Results
 
 - Floors completed now shows the full number
