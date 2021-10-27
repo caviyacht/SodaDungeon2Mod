@@ -61,6 +61,8 @@ The following features are only in the beta version of the game and may end up i
 - Floors completed now shows the full number
 - Enemies killed now shows for each type of enemy
   - {normal}/{mini}/{boss}
+- Floors completed now shows warps and bonus warps
+  - {normal}/{warps}/{bonus}
 
 ### Adventure UI
 
