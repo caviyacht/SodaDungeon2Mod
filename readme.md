@@ -66,12 +66,12 @@ The following features are only in the beta version of the game and may end up i
 
 ### Adventure UI
 
-- Clicking the GPH now toggles the 'Alt Stats'
+- Clicking the GPH/CPH now toggles the 'Alt Stats'
+- CPH has been moved to the main stats
 - RPH has been moved to the 'Alt Stats'
-- Credits per hour (CPH)
-  - Shows in Boss Rush
-  - Shows in the 'Alt Stats' in dungeon
+- HPH (Heals Per Hour) has been added to 'Alt Stats'
 - EPH has been removed because essence is useless
+- RPH +GFR has been removed
 - Character HP/MP stats show abbreviated
 - Character HP/MP stats on the right-side have been moved slightly left
 - Castle Equivalent Floor (CEF) and Primal Lands Equivalent Floor (PEF)
