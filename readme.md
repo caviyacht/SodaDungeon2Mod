@@ -10,11 +10,11 @@ If you have a question, see the [FAQ](#faq) section.
 
 ## Versions
 
-There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be the latest release shown in the releases section, while the `Beta` version will be marked as a preview release and can be found in the [releases](releases) page.
+There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be the latest release shown in the releases section, while the `Beta` version will be marked as a preview release and can be found in the [releases](/releases) page.
 
 > ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-- Current Live Version: [113.1](releases/tag/v1.2.0b113-1)
+- Current Live Version: [113.1](/releases/latest)
 - Current Beta Version: n/a
 
 > ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
