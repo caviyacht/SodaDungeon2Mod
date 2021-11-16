@@ -2,176 +2,262 @@
 
 Welcome to Caviar, a Soda Dungeon 2 MOD that contains only the finer things in life.
 
-> **Note:** Caviar was built by me for me, but you demanded it, so here it is.
+To get started, see the [instructions](#instructions) section for installing the mod, or the [features](#features) section to know what Caviar is all about.
 
-> **Note:** See the [remarks](#remarks) section regarding support.
+> ℹ️ See the [remarks](#remarks) section regarding support.
 
-# Features
+If you have a question, see the [FAQ](#faq) section.
 
-Caviar has many features that will improve your quality of life while playing Soda Dungeon 2. 
+## Versions
 
-Just ask yourself:
+There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be the latest release shown in the releases section, while the `Beta` version will be marked as a preview release and can be found in the [releases](releases) page.
 
-- Do you like gold? Well how about a gold per hour heads-up display! 
-- Do you like using Stein and question if it is working? We've got you covered. 
-- Tired of clicking over, and over, and over, leveling up that gold relic? Well, now you can bring it to the **MAX** with a single click of the mouse! 
-- Are you tired of scrolling to see your script triggers? Guess what, now you can see all of those glorious triggers (up to 7) together in a single screen! 
+> ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-And don't forget, there's more where that came from. Go ahead... check it out yourself, if you dare.
+- Current Live Version: [113.1](releases/tag/v1.2.0b113-1)
+- Current Beta Version: n/a
 
-## Core Features
+> ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
+>
+> To find the game's build number, click the version number on the game's title screen (it's at the bottom). This is the version of Caviar to download.
+>
+> Example: The latest build of v1.1.1 is b106, so Caviar-106.x is the version to download.
 
-### Adventure UI
+## Instructions
 
-- Sword of Space and Time bonus warps
-- Adventure time
-- FPH/FPH-warps
-  - Displays both FPH at the same time
-  - Displays only a single FPH if warps have not been used
-- Gold per hour (GPH)
-- Essence per hour (EPH)
-- Stein relics per hour (RPH)
-- Stein gold find relics per hour (GFR)
+Installing and uninstalling _(I guess this is goodbye?)_ Caviar is so simple, even you can do it! Just **READ** the instructions below and you'll be just fine... _I think_.
+
+> ℹ️ According to a recent survey by a local mod author, it was found that reading the instructions can (and will) improve one's ability to install a mod correctly.
+>
+> Do yourself a favor and read the [instructions](#instructions) today!
+
+### Installing Caviar
+
+Installing Caviar is as easy as counting to 3... _and reading all of the warnings_.
+
+> ⚠️ **INSTALLING THE INCORRECT VERSION CAN (AND WILL) FREEZE THE GAME**
+
+1) Find the version of Caviar that you need in the [releases](releases) page (see the [versions](#versions) section regarding versioning)
+   - Download the file: `Assembly-CSharp.dll`
+2) Find your Soda Dungeon 2 installation folder
+   - **Windows:** `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
+   - **Mac:** `~/Library/Application Support/Steam/steamapps/common/Soda Dungeon 2/SodaDungeon2.app/Contents/Resources/Data/Managed`
+   - **Linux:** You're on your own
+3) Copy the downloaded file, `Assembly-CSharp.dll`, from Step 1 into the directory from Step 2
+   - Overwrite the file when prompted
+   - If not prompted to overwrite, then make sure the file name is `Assembly-CSharp.dll` and try again
+
+### Uninstalling Caviar
+
+So, you've decided you want to leave? Let me show you the way out.
+
+1) Open Steam
+2) Find `Soda Dungeon 2` in your massive game list
+3) Right-click `Soda Dungeon 2` and click `Properties`
+4) In the modal, click `Local Files`
+5) Click `Verify integrity of game files...`
+6) Follow the prompts to revert the game back to its original form
+
+## Known Issues
+
+If there are any known issues, you'll find them here.
+
+> ℹ️ There are currently no known issues other than the lack of reading the [instructions](#instructions).
+
+## Features
+
+Caviar has many features that will improve your quality of life while playing Soda Dungeon 2.
+
+Just ask yourself these questions:
+
+- Do you live and breathe gold?
+- Do you drink from the Stein?
+- Do you hate clicking?
+- Do you love stats?
+- If a tree falls in a forest and no one is around to hear it, does it make a sound?
+
+If you answered **YES** to any of these questions, then Caviar is the mod for you!
+
+### Adventure HUD UI
+
+The following features update the Adventure HUD in the top-right of the screen while in the dungeon.
+
+The Adventure HUD has two types of features: `Always-on` and `Toggleable`. The `Always-on` features are always displayed, while the `Toggleable` features can show/hide based on which view you want, but will always show something.
+
+#### Always-on
+
+##### Warp Bonus Counter (from Sword of Space and Time)
+
+  - Displays the current warp bonus next to the dungeon floor number
+    - Example: `123,456 (+123)`
+  - Only displays if there are currently pending bonus warps
+
+##### Elapsed Dungeon Time
+
+  - Displays the current elapsed adventure time next to the dungeon floor number
+    - Example: `123,456 | 01:23:45`
+
+##### Floors per Hour (FPH)
+
+  - Displays both FPH and FPH-warps at the same time
+    - Example: `1234/567 FPH`
+
+> ℹ️ Requires the Floors per Hour Oddity.
+
+#### Toggleable
+
+##### Castle Equivalent Floor (CEF) / Primal Lands Equivalent Floor (PEF)
+
+  - Displays the current Castle/Primal Lands equivalent floor for the current dungeon floor
+    - Example: `CEF 123,456` or `PEF 123,456`
+  - Only displays in the dungeon
+  - Click the dungeon floor number to toggle
+
+> ℹ️ Due to the nature of the exponential scaling in the Primal Lands, the Castle Equivalent Floor might not update all the time, or it might look slightly off.
+
+##### Gold per Hour (GPH)
+
+  - Displays the current earned gold per hour
+    - Example: `123.4 k GPH`
+  - Only displays in the dungeon
+  - Displayed by default
+
+> ℹ️ The gold per hour is calculated by taking the current earned gold and dividing it by the current adventure elapsed time. This ends up just being an average and is ok for the Castle.
+> 
+> However, because of the exponential scaling in the Primal Lands, the gold per hour will be slightly off over a longer run.
+
+##### Battle Credits per Hour (CPH)
+
+  - Displays the current earned battle credits per hour
+    - Example: `123 CPH` or `123.4 k GPH | 123 CPH`
+  - Only displays when you have earned battle credits
+  - Displayed by default
+
+##### Relics per Hour (RPH)
+
+  - Displays the current leveled relics per hour from Stein
+    - Example: `123 RPH` or `123 HPH | 123 RPH`
+  - Only displays when Stein has leved a relic
+  - Click the `GPH` or `CPH` line to toggle
+
+##### Heals per Hour (HPH)
+
+  - Displays the current group heals per hour
+    - Example: `123 HPH`
+  - Only displays when you have group healed
+  - Click the `GPH` or `CPH` line to toggle
+
+### Adventure Character UI
+
+The following features update the character display while in the dungeon.
+
+#### Character HP/MP Stats
+
+- Displays the abbreviated number for HP and MP
+  - Example: `123.4 q`
+- Characters on the right have had their stats moved slightly to the left
+
+### Adventure Results UI
+
+The following features update the adventure results screen.
+
+#### Enemies Killed
+
+- Displays the breakdown of enemies killed by type
+  - Format: `{norm}/{mini}/{boss}`
+    - `{norm}` are the normal everyday mobs
+    - `{mini}` are the mini-bosses
+    - `{boss}` are the bosses
+  - Example: `123/45/6`
+
+#### Floors Completed
+
+- Displays the breakdown of floors by type
+  - Format: `{completed}/{warps}/{bonus}`
+    - `completed` are the floors completed (previous behavior)
+    - `warps` are the floors that were warped (does not include bonus)
+    - `bonus` are the floors that were warped from the Sword of Space and Time
+  - Example: `123/45/6`
+- Only displays warps when warping
+- Only displays bonus when warping and using the Sword of Space and Time
 
 ### Relic UI
 
-- +10k level-up button
-- +100k level-up button
-- MAX level-up button
+The following features update the relic screen.
+
+#### Level-up Buttons
+
+- +10k button
+- +100k button
+- +1M button
+- MAX button
+
+> ⚠️ Be careful when using the `MAX button` as it is very CPU intensive and will cause the game to not respond for a while depending on how many levels it needs to calculate.
+>
+> If you have a lot of essence on-hand and know that it could level a relic for millions of levels, avoid navigating to the `MAX button` unless you know what you're doing and accept the consequences.
+>
+> See the [remarks](#remarks) section.
 
 ### Scripts UI
 
-- Half-height script triggers
-- Scripts sorted by script name
+The following features update the scripts screen.
 
-### Book UI
+- Scripts sorted alphabetically by name
 
-- Scripts sorted by script name
+### Book Character UI
+
+The following features update the book character screen.
+
+- Scripts sorted alphabetically by name
 
 ## Beta Features
 
-The following features are only in the beta version of the game and may end up in the final version.
+The following features are only found in the beta version of the mod.
 
 ### Title Screen
 
-- Click to skip the beta warning.
+The following features update the title screen.
 
-### Adventure Results
+#### Beta Warning
+  - Allows clicking to skip
 
-- Floors completed now shows the full number
-- Enemies killed now shows for each type of enemy
-  - {normal}/{mini}/{boss}
-- Floors completed now shows warps and bonus warps
-  - {normal}/{warps}/{bonus}
+## Deprecated Features
 
-### Adventure UI
+The following features have been removed from the mod due to either being not very useful, experimental, or were added to the official game itself.
 
-- Clicking the GPH/CPH now toggles the 'Alt Stats'
-- CPH has been moved to the main stats
-- RPH has been moved to the 'Alt Stats'
-- HPH (Heals Per Hour) has been added to 'Alt Stats'
-- EPH has been removed because essence is useless
-- RPH +GFR has been removed
-- Character HP/MP stats show abbreviated
-- Character HP/MP stats on the right-side have been moved slightly left
-- Castle Equivalent Floor (CEF) and Primal Lands Equivalent Floor (PEF)
+### Adventure HUD UI
 
-### Relic UI
+#### Leveled Gold Find Relic Counter
 
-- +1M level-up button
+- Displayed the number of leveled Gold Find Relic from Stein
 
-# Deprecated Features
+#### Essence per Hour (EPH)
 
-The following features have been removed, either because the base game has the feature, or the feature was not well thought out.
-
-## Core Features
-
-### Adventure UI
-
-- Character HP and MP show as a percentage
-
-## Beta Features
+- Displayed the essence per hour
 
 ### Battle Credits UI
 
-- Battle Credit remembrance (current session only) **[ADDED TO BASE GAME]**
+#### Battle Credit Remembrance
+
+- Remembers the previous battle credit amount (current session only)
+- **ADDED TO OFFICIAL GAME**
 
 ### Scripts UI
 
-- Half-height script triggers **[ADDED TO BASE GAME]**
+#### Small Script Triggers 
 
-# Screenshots
+- Reduces the size of the script triggers by half
+- **ADDED TO OFFICIAL GAME**
 
-## Adventure UI
+## FAQ
 
-![HUD UI GPH](images/hud-ui-eph.png)
-
-![HUD UI EPH](images/hud-ui-gph.png)
-
-![HUD UI CPH](images/hud-ui-cph.png)
-
-## Relic UI
-
-![Relic UI +10k](images/relic-ui-10k.png)
-
-![Relic UI +100k](images/relic-ui-100k.png)
-
-![Relic UI MAX](images/relic-ui-max.png)
-
-## Soda Scripts UI
-
-![Sorted Scripts](images/soda-scripts-sorted.png)
-
-![Sorted Script](images/soda-script-half-height.png)
-
-# Instructions
-
-Installing and uninstalling Caviar is super easy. Just follow the instructions below and you'll be fine...
-
-## Installing
-
-Installing Caviar is as easy as counting to 3.
-
-> **Note:** Caviar is versioned the same as the game's version. To find the correct version, on the game title screen click the version number at the bottom to get the build number. This number is the version of Caviar to download.
-
-> **Note:** If you do not see a version that matches your current game version, then that means I am either not supporting that version, or I have not gotten around to updating Caviar.
-
-> **Note:** The latest release will only be the live version of the game, beta releases can be found in the 'More Releases' section.
-
-1) Find the version of Caviar that you need (check version number of game; see note above)
-   - Download the `Assembly-CSharp.dll` file from the releases section
-     > **Note:** Make sure the downloaded file name is exactly `Assembly-CSharp.dll`
-2) Find your Soda Dungeon 2 installation folder
-   - This is typically found here: `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
-3) Copy the downloaded dll (`Assembly-CSharp.dll`) into the directory from step 2 overwriting the existing file
-
-## Uninstalling
-
-Uninstalling Caviar is super simple.
-
-1) Open Steam
-2) Find Soda Dungeon 2 in your massive game list
-3) Right-click Soda Dungeon 2 and click `Properties`
-4) Click `Local Files`
-5) Click `Verify integrity of game files...`
-6) Follow the prompts
-
-# Known Issues
-
-## Adventure UI
-
-- The EPH/GPH display is shown when it shouldn't (v1.1.1; fixed in 1.2.0)
-- The CPH display is shown when you have 0 credits earned (v1.2.0)
-
-# FAQ
-
-You've got questions? Well I have answers.
+Do you have a question? Well... I might have an answer for you.
 
 ### Q. I want th-
 
 I don't care what you want. The answer is no.
 
-### Q. I want features from MOD X in MOD Y, can I ha-
+### Q. I liked feature X, can you put it b-
 
 I said no.
 
@@ -179,18 +265,24 @@ I said no.
 
 Caviar is considered one of the finer things in life. It's also what the 'cavi' in 'caviyacht' stands for, so... yeah.
 
-### Q. The game isn't loading anymore, what do I do?
+### Q. How often will Caviar update?
+
+The `Live` version of the game will only be updated if there is currently not a beta active, and will only be updated if there is a **MUST** have feature that I need. The `Beta` version of the game will be updated any time I see a new feature I want to have and is generally updated more often.
+
+### Q. The game doesn't load, what do I do?
 
 More than likely this is caused by the downloaded dll having the incorrect name. Make sure that when you download the dll, it is named `Assembly-CSharp.dll`.
 
-> **Note:** If you have downloaded the mod before, there is a chance that it will end up named `Assembly-CSharp (1).dll` upon downloading it again, if the previous file was still there.
+> ℹ️ If you have downloaded the mod before, there is a chance that the downloaded file will end up named `Assembly-CSharp (1).dll` upon downloading it again, if the previous file was still there.
 
-# Remarks
+## Remarks
 
-I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using the Caviar MOD, or any MOD.
+I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using Caviar, or any mod.
 
-> **Note:** If the mod does not work for some reason, it's you; not me (check the FAQ for potential support).
+> ℹ️ If the mod does not work for some reason, it's you; not me. Check the [FAQ](#faq) for potential support.
+>
+> As always, remember to read the [instructions](#instructions).
 
-# Credits
+## Credits
 
-A big thanks to Shawn for creating this game.
+Thanks to Shawn for creating this game.
