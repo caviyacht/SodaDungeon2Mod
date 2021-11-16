@@ -14,7 +14,7 @@ There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be 
 
 > ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-- Current Live Version: [Caviar-113.1](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-1)
+- Current Live Version: [Caviar-113.1](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-2)
 - Current Beta Version: n/a
 
 > ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
