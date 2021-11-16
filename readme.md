@@ -10,11 +10,11 @@ If you have a question, see the [FAQ](#faq) section.
 
 ## Versions
 
-There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be the latest release shown in the releases section, while the `Beta` version will be marked as a preview release and can be found in the [releases](/releases) page.
+There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be the latest release shown in the releases section, while the `Beta` version will be marked as a preview release and can be found in the [releases](https://github.com/caviyacht/SodaDungeon2Mod/releases) page.
 
 > ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-- Current Live Version: [113.1](/releases/latest)
+- Current Live Version: [113.1](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-1)
 - Current Beta Version: n/a
 
 > ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
@@ -37,7 +37,7 @@ Installing Caviar is as easy as counting to 3... _and reading all of the warning
 
 > ⚠️ **INSTALLING THE INCORRECT VERSION CAN (AND WILL) FREEZE THE GAME**
 
-1) Find the version of Caviar that you need in the [releases](releases) page (see the [versions](#versions) section regarding versioning)
+1) Find the version of Caviar that you need in the [releases](https://github.com/caviyacht/SodaDungeon2Mod/releases) page (see the [versions](#versions) section regarding versioning)
    - Download the file: `Assembly-CSharp.dll`
 2) Find your Soda Dungeon 2 installation folder
    - **Windows:** `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
