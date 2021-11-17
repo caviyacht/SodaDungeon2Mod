@@ -14,7 +14,7 @@ There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be 
 
 > ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-- Current Live Version: [Caviar-113.2](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-2)
+- Current Live Version: [Caviar-113.3](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-3)
 - Current Beta Version: n/a
 
 > ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
@@ -180,6 +180,16 @@ The following features update the adventure results screen.
   - Example: `123/45/6`
 - Only displays warps when warping
 - Only displays bonus when warping and using the Sword of Space and Time
+
+### Currency HUD
+
+The following features update the currency hud (bottom of screen).
+
+#### Battle Credits
+
+- Displays the current battle credits alongside gold/keys/caps/essence
+
+> ℹ️ Currently only supports battle credits earned from the dungeon and does not work in Boss Rush.
 
 ### Relic UI
 
