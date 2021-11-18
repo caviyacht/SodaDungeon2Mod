@@ -40,9 +40,14 @@ Installing Caviar is as easy as counting to 3... _and reading all of the warning
 1) Find the version of Caviar that you need in the [releases](https://github.com/caviyacht/SodaDungeon2Mod/releases) page (see the [versions](#versions) section regarding versioning)
    - Download the file: `Assembly-CSharp.dll`
 2) Find your Soda Dungeon 2 installation folder
-   - **Windows:** `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
-   - **Mac:** `~/Library/Application Support/Steam/steamapps/common/Soda Dungeon 2/SodaDungeon2.app/Contents/Resources/Data/Managed`
-   - **Linux:** You're on your own
+   - **I Know What I'm Doing:**
+     - **Windows:** `C:\Program Files (x86)\Steam\steamapps\common\Soda Dungeon 2\SodaDungeon2_Data\Managed`
+     - **Mac:** `~/Library/Application Support/Steam/steamapps/common/Soda Dungeon 2/SodaDungeon2.app/Contents/Resources/Data/Managed`
+     - **Linux:** `~/.local/share/Steam/steamapps/common/Soda Dungeon 2/SodaDungeon2_Data/Managed`
+   - **I Don't Know What I'm Doing:**
+     - Open Steam
+     - Find `Soda Dungeon 2` in your massive game list
+     - Right-click `Soda Dungeon 2`, rollover `Manage`, and then click `Browse local files`
 3) Copy the downloaded file, `Assembly-CSharp.dll`, from Step 1 into the directory from Step 2
    - Overwrite the file when prompted
    - If not prompted to overwrite, then make sure the file name is `Assembly-CSharp.dll` and try again
