@@ -14,7 +14,7 @@ There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be 
 
 > ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-- Current Live Version: [Caviar-113.3](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-3)
+- Current Live Version: [Caviar-113.4](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-4)
 - Current Beta Version: n/a
 
 > ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
@@ -48,6 +48,8 @@ Installing Caviar is as easy as counting to 3... _and reading all of the warning
      - Open Steam
      - Find `Soda Dungeon 2` in your massive game list
      - Right-click `Soda Dungeon 2`, rollover `Manage`, and then click `Browse local files`
+     - Navigate into `SodaDungeon2_Data`
+     - Navigate into `Managed`
 3) Copy the downloaded file, `Assembly-CSharp.dll`, from Step 1 into the directory from Step 2
    - Overwrite the file when prompted
    - If not prompted to overwrite, then make sure the file name is `Assembly-CSharp.dll` and try again
@@ -145,11 +147,11 @@ The Adventure HUD has two types of features: `Always-on` and `Toggleable`. The `
   - Only displays when Stein has leved a relic
   - Click the `GPH` or `CPH` line to toggle
 
-##### Heals per Hour (HPH)
+##### Heals/Cleanses per Hour (HPH)
 
-  - Displays the current group heals per hour
-    - Example: `123 HPH`
-  - Only displays when you have group healed
+  - Displays the current group heals and cleanses per hour
+    - Example: `123 HPH` or `123/4 HPH` or `0/123 HPH`
+  - Only displays when you have group healed or cleansed
   - Click the `GPH` or `CPH` line to toggle
 
 ### Adventure Character UI
