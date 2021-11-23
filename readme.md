@@ -150,6 +150,7 @@ The Adventure HUD has two types of features: `Always-on` and `Toggleable`. The `
 ##### Heals/Cleanses per Hour (HPH)
 
   - Displays the current group heals and cleanses per hour
+  - Format: `{group_heals}/{cleanses}`
     - Example: `123 HPH` or `123/4 HPH` or `0/123 HPH`
   - Only displays when you have group healed or cleansed
   - Click the `GPH` or `CPH` line to toggle
