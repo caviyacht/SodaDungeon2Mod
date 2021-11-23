@@ -197,8 +197,6 @@ The following features update the currency hud (bottom of screen).
 
 - Displays the current battle credits alongside gold/keys/caps/essence
 
-> ℹ️ Currently only supports battle credits earned from the dungeon and does not work in Boss Rush.
-
 ### Relic UI
 
 The following features update the relic screen.
