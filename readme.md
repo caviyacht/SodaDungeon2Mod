@@ -14,7 +14,7 @@ There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be 
 
 > ℹ️ If there is a current beta going on, the Live version will not be updated during that time.
 
-- Current Live Version: [Caviar-113.4](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-4)
+- Current Live Version: [Caviar-113.5](https://github.com/caviyacht/SodaDungeon2Mod/releases/tag/v1.2.0b113-5)
 - Current Beta Version: n/a
 
 > ℹ️ Caviar's versioning is based on the game's build number (not the game's version).
@@ -208,10 +208,8 @@ The following features update the relic screen.
 - +1M button
 - MAX button
 
-> ⚠️ Be careful when using the `MAX button` as it is very CPU intensive and will cause the game to not respond for a while depending on how many levels it needs to calculate.
->
-> If you have a lot of essence on-hand and know that it could level a relic for millions of levels, avoid navigating to the `MAX button` unless you know what you're doing and accept the consequences.
->
+> ℹ️ The +1M and MAX buttons use an estimation equation to quickly determine the cost. This will cost _slightly_ more than normal, but is totally worth it.
+> 
 > See the [remarks](#remarks) section.
 
 ### Scripts UI
