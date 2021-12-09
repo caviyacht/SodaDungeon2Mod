@@ -25,7 +25,7 @@ There are two versions of Caviar: `Live` and `Beta`. The `Live` version will be 
 
 I take no responsibility for anything you do. Always make a backup of the original dll and your save data before using Caviar, or any mod.
 
-> ℹ️ If the mod does not work for some reason, it's you; not me. Check the [FAQ](#faq) for potential support.
+> ℹ️ If the mod does not work for some reason, it's you; not me. Check the [FAQ](../../wiki/FAQ) for potential support.
 >
 > As always, remember to read the [instructions](../../wiki/Instructions).
 
