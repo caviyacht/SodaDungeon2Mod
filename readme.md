@@ -27,7 +27,7 @@ I take no responsibility for anything you do. Always make a backup of the origin
 
 > ℹ️ If the mod does not work for some reason, it's you; not me. Check the [FAQ](#faq) for potential support.
 >
-> As always, remember to read the [instructions](wiki/Instructions).
+> As always, remember to read the [instructions](../../wiki/Instructions).
 
 ## Credits
 
