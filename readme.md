@@ -16,4 +16,4 @@ I take no responsibility for anything you do. Always make a backup of the origin
 
 ## Credits
 
-Thanks to Shawn for creating this game.
+Thanks to [anpShawn](https://github.com/anpShawn) for creating this game.
